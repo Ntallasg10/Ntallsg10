@@ -6,7 +6,7 @@
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 01 | [**Man In The Middle**](https://github.com/Ntallasg10/MITM-Attack) | Short description here | `Python` `Bash` |
+| 01 | [**Man In The Middle**](https://github.com/Ntallasg10/Ntallsg10/blob/main/README.md) | Short description here | `Python` `Bash` |
 
 ---
 
