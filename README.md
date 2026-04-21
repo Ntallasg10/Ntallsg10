@@ -56,3 +56,9 @@ net.probe on
 set arp.spoof.target 192.168.95.140 and arp.spoof on
 ```
 <img width="1372" height="473" alt="image" src="https://github.com/user-attachments/assets/5efe1d9a-3f4d-46e4-b4fb-e300aae7df00" />
+
+```
+net.sniff on
+```
+<img width="1898" height="843" alt="Screenshot 2026-04-21 232114" src="https://github.com/user-attachments/assets/db50478f-f185-40df-bff7-5cf789e6abfc" />
+
